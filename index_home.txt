@@ -1,0 +1,58 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>Marathon Sports Run Club - Log In</title>
+        <meta charset="utf-8">
+        <link rel="shortcut icon" type="image/png" href="http://staging.marathonsportsrunclub.com/public/images/favicon.png">
+        <link rel="stylesheet" media="screen" href="http://staging.marathonsportsrunclub.com/public/stylesheets/style.css"/>
+        <link rel="stylesheet" media="screen" href="http://staging.marathonsportsrunclub.com/public/stylesheets/facebox.css"/>
+        <link rel="stylesheet" media="screen" href="http://staging.marathonsportsrunclub.com/public/stylesheets/visualize.css"/>
+        <link rel="stylesheet" media="screen" href="http://staging.marathonsportsrunclub.com/public/stylesheets/date_input.css"/>
+        <link rel="stylesheet" href="http://ajax.googleapis.com/ajax/libs/jqueryui/1.8.16/themes/base/jquery-ui.css" type="text/css" media="all" />
+        <!--[if lt IE 8]><link rel="stylesheet" media="screen" href="http://staging.marathonsportsrunclub.com/public/stylesheets/ie.css"/><![endif]-->
+                    </head>
+<body>
+    <div id="hld">
+        <div class="wrapper">
+             
+<div class="block small center login">
+			
+    <div class="block_head">
+        <div class="bheadl"></div>
+        <div class="bheadr"></div>
+        
+        <h2>Marathon Sports Run Club - Log In</h2>
+    </div>	<!-- .block_head ends -->
+    
+    <div class="block_content">
+        &nbsp;<br/>
+        <p style="text-align: center; vertical-align: middle;">
+            <img src="http://staging.marathonsportsrunclub.com/public/images/logo-marathon-sports.gif" width="170" alt="" style="padding-bottom: 20px;"/><br/>
+            <a href="/login/facebook"><img src="http://staging.marathonsportsrunclub.com/public/images/connect-with-facebook.png"
+                alt="Log In With Facebook" title="Log In With Facebook"/></a></p>
+    </div>  <!-- .block_content ends -->
+        
+    <div class="bendl"></div>
+    <div class="bendr"></div>
+                    
+</div>
+
+        </div>
+    </div>
+
+    <!--[if IE]><script type="text/javascript" src="http://staging.marathonsportsrunclub.com/public/javascripts/excanvas.js"></script><![endif]-->
+    <script type="text/javascript" src="http://staging.marathonsportsrunclub.com/public/javascripts/jquery.js"></script>
+    <script type="text/javascript" src="http://staging.marathonsportsrunclub.com/public/javascripts/jquery.img.preload.js"></script>
+    <script type="text/javascript" src="http://staging.marathonsportsrunclub.com/public/javascripts/jquery.filestyle.mini.js"></script>
+    <script type="text/javascript" src="http://staging.marathonsportsrunclub.com/public/javascripts/jquery.wysiwyg.js"></script>
+    <script type="text/javascript" src="http://staging.marathonsportsrunclub.com/public/javascripts/jquery.date_input.pack.js"></script>
+    <script type="text/javascript" src="http://staging.marathonsportsrunclub.com/public/javascripts/facebox.js"></script>
+    <script type="text/javascript" src="http://staging.marathonsportsrunclub.com/public/javascripts/jquery.visualize.js"></script>
+    <script type="text/javascript" src="http://staging.marathonsportsrunclub.com/public/javascripts/jquery.visualize.tooltip.js"></script>
+    <script type="text/javascript" src="http://staging.marathonsportsrunclub.com/public/javascripts/jquery.select_skin.js"></script>
+    <script type="text/javascript" src="http://staging.marathonsportsrunclub.com/public/javascripts/jquery.tablesorter.min.js"></script>
+    <script type="text/javascript" src="http://staging.marathonsportsrunclub.com/public/javascripts/ajaxupload.js"></script>
+    <script type="text/javascript" src="http://staging.marathonsportsrunclub.com/public/javascripts/jquery.pngfix.js"></script>
+    <script type="text/javascript" src="http://staging.marathonsportsrunclub.com/public/javascripts/custom.js"></script>
+</body>
+</html>
